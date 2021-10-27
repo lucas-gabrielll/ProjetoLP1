@@ -4,13 +4,9 @@
 
 #Ata de Reunião 
 
-Data 
+*Data  22/10/2021 
 
-Local 
-
-22/10/2021 
-
-    Serralheria Bahia 
+*Local  Serralheria Bahia 
 
 #Participantes 
 
@@ -20,41 +16,41 @@ Gustavo Mendes Carvalho Almeida;
 
 José Emilio Cardoso 
 
+
 #Objetivos 
 
-Convencer o cliente a aderir o nosso sistema 
+- Convencer o cliente a aderir o nosso sistema 
 
-Ouvir a exigências e recomendações do cliente 
+- Ouvir a exigências e recomendações do cliente 
+
+
 
 #Tópicos Discutidos 
 
- 
+- O sistema utilizado atualmente pelo cliente 
 
-O sistema utilizado atualmente pelo cliente 
-
-Vantagens do nosso sistema sobre o sistema do cliente 
+- Vantagens do nosso sistema sobre o sistema do cliente 
 
 #Ações a serem tomadas 
 
-Ação 
+*Ação 
+-Registrar os pagamentos efetuados. 
 
-Responsável 
+*Responsável 
+-Lucas Gabriel dos Santos Cardoso 
 
-Registrar os pagamentos efetuados. 
+ 
+*Ação
+- Registrar o agendamento de pagamentos com lembretes. 
 
-Lucas Gabriel dos Santos Cardoso 
+*Responsável
+- Gustavo Mendes Carvalho Almeida 
 
  
 
-Registrar o agendamento de pagamentos com lembretes. 
-
-Gustavo Mendes Carvalho Almeida 
-
  
 
- 
-
-Informações Adicionais 
+#Informações Adicionais 
 
 NENHUMA 
 
