@@ -1,5 +1,5 @@
-# ProjetoLP1
-Gerenciamento de dívidas e pagamentos de serviços. 
+# Gerenciamento de dívidas e pagamentos de serviços. 
+
 
 Justificativa 
 
