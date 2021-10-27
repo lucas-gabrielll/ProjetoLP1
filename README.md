@@ -11,6 +11,6 @@ O sistema irá gerenciar e registrar os pagamentos realizados pela efetuação d
 
 # Especificação do papel de cada membro
 
-Lucas Gabriel dos Santos Cardoso: Registrar e armazenar pagamentos efetuados e agendamentos, exibindo data e contato do cliente. 
+Lucas Gabriel dos Santos Cardoso: Registrar e armazenar pagamentos efetuados, exibindo data e contato do cliente. 
 
-Gustavo Mendes Carvalho Almeida: Gerenciar os agendamentos realizando lembretes com antecedência, exibindo data e contato do cliente.
+Gustavo Mendes Carvalho Almeida: Registrar e armazenar os agendamentos de pagamentos, realizando lembretes com antecedência e exibindo data e contato do cliente.
