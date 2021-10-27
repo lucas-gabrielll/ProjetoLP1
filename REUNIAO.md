@@ -34,10 +34,10 @@ Tópicos Discutidos
 #Ações a serem tomadas 
 
 Ação 
--Registrar os pagamentos efetuados. 
+- Registrar os pagamentos efetuados. 
 
 Responsável 
--Lucas Gabriel dos Santos Cardoso 
+- Lucas Gabriel dos Santos Cardoso 
 
  
 Ação
