@@ -1,23 +1,23 @@
-#Gerenciamento de dívidas e pagamentos de serviços. 
+Gerenciamento de dívidas e pagamentos de serviços. 
 
  
 
-#Ata de Reunião 
+Ata de Reunião 
 
-*Data  22/10/2021 
+Data  22/10/2021 
 
-*Local  Serralheria Bahia 
+Local  Serralheria Bahia 
 
-#Participantes 
+Participantes 
 
-Lucas Gabriel dos Santos Cardoso; 
+- Lucas Gabriel dos Santos Cardoso; 
 
-Gustavo Mendes Carvalho Almeida; 
+- Gustavo Mendes Carvalho Almeida; 
 
-José Emilio Cardoso 
+- José Emilio Cardoso 
 
 
-#Objetivos 
+Objetivos 
 
 - Convencer o cliente a aderir o nosso sistema 
 
@@ -25,7 +25,7 @@ José Emilio Cardoso
 
 
 
-#Tópicos Discutidos 
+Tópicos Discutidos 
 
 - O sistema utilizado atualmente pelo cliente 
 
@@ -33,24 +33,24 @@ José Emilio Cardoso
 
 #Ações a serem tomadas 
 
-*Ação 
+Ação 
 -Registrar os pagamentos efetuados. 
 
-*Responsável 
+Responsável 
 -Lucas Gabriel dos Santos Cardoso 
 
  
-*Ação
+Ação
 - Registrar o agendamento de pagamentos com lembretes. 
 
-*Responsável
+Responsável
 - Gustavo Mendes Carvalho Almeida 
 
  
 
  
 
-#Informações Adicionais 
+Informações Adicionais 
 
 NENHUMA 
 
