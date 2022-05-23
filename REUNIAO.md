@@ -4,7 +4,6 @@ Gerenciamento de dívidas e pagamentos de serviços.
 
 Ata de Reunião 
 
-Data  22/10/2021 
 
 Local  Serralheria Bahia 
 
